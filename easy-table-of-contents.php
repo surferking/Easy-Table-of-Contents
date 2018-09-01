@@ -1,10 +1,10 @@
 <?php
 /**
- * Plugin Name: Easy Table of Contents
+ * Plugin Name: Easy Table of Contents - Fork
  * Plugin URI: http://connections-pro.com/
  * Description: Adds a user friendly and fully automatic way to create and display a table of contents generated from the page content.
  * Version: 2.0-rc1
- * Author: Steven A. Zahm
+ * Author: Steven A. Zahm & Jeroen Sormani
  * Author URI: http://connections-pro.com/
  * Text Domain: easy-table-of-contents
  * Domain Path: /languages
